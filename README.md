@@ -29,3 +29,4 @@ To install them on ruby use:
 ## Acknowledgments
 
 * This app was created as a test task 
+* BulletPoints.txt Contains script idea breakdown 
