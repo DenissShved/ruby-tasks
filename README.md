@@ -12,11 +12,11 @@ Script uses additional libraries "HTTParty" and "csv".
 To install them on ruby use:
 
 ```
->> ruby install httparty
+>> gem install httparty
 ```
 
 ```
->> ruby install csv
+>> gem install csv
 ```
 
 ## Built With
