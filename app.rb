@@ -2,7 +2,7 @@ require_relative "connection.rb"
 require_relative "exporter.rb"
 include Connection_tools
 # Was used in testing purposes to see the request format
-require "json"
+#require "json"
 
 company_domain = ENV["pipedrive_company_domain"]
 uri = "https://#{company_domain}.pipedrive.com"
